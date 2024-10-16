@@ -23,7 +23,3 @@ This Google Drive structure reflects a project workspace for a shared midterm re
 
 ## 4. Config Folder
 - Holds configuration files (`train_config_23.yaml` and `eval_config_23.yaml`). These files define the settings and parameters for training and evaluating the models.
-
----
-
-In summary, this folder structure supports a research project that involves model training, evaluation, and analysis, with the related configuration, results, and visualizations organized in a clear and logical manner.
